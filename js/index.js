@@ -136,7 +136,7 @@ ScrollTrigger.create({
   trigger: ".wrap",
   start: "top top",
   end: "bottom bottom",
-  markers: 1,
+  markers: !1,
   onUpdate: () => {
     updateCountOnScroll();
   },
