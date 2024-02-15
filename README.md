@@ -61,5 +61,9 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Acknowledgments:
 
-- Special thanks to [Tympanus](https://tympanus.net/) for providing inspiration and resources for these web sketches.
-  EOF
+### Images from
+
+- [MidJourney](https://www.midjourney.com/)
+
+Made with ~~love~~ keyboard by uzitrake
+EOF
