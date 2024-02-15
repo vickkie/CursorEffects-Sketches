@@ -1,50 +1,65 @@
-# Sketches
+cat << 'EOF' > README.md
 
-A collection of demo variations, ideas, raw concepts &amp; experiments.
+# Web Sketches Showcase
 
-## Demos
+Welcome to the Web Sketches Showcase repository! Here, you'll find a collection of innovative and interactive web sketches designed to elevate user experiences to new heights. From captivating hover effects to immersive image motion trails, and dynamic custom cursor designs, each sketch offers a glimpse into the possibilities of modern web design.
 
-<details open>
-  <summary><b>2023</b></summary>
-  
-  - [Sketch 001: Repetition Hover Effect (Round)](https://tympanus.net/Sketches/001-repetition-hover-effect-round/)
-  - [Sketch 002: Repetition Hover Effect (Square)](https://tympanus.net/Sketches/002-repetition-hover-effect-square/)
-  - [Sketch 003: Repetition Hover Effect (Rotated)](https://tympanus.net/Sketches/003-repetition-hover-effect-rotated/)
-  - [Sketch 004: Repetition Hover Effect (Filter)](https://tympanus.net/Sketches/004-repetition-hover-effect-filter/)
-  - [Sketch 005: Image Motion Trail (Opaque)](https://tympanus.net/Sketches/005-image-motion-trail-opaque/)
-  - [Sketch 006: Image Motion Trail (Semi-transparent)](https://tympanus.net/Sketches/006-image-motion-trail-semitransparent/)
-  - [Sketch 007: Image Motion Trail (Rotation)](https://tympanus.net/Sketches/007-image-motion-trail-rotation/)
-  - [Sketch 008: Image Motion Trail (Circle)](https://tympanus.net/Sketches/008-image-motion-trail-circle/)
-  - [Sketch 009: Image Motion Trail (Perspective)](https://tympanus.net/Sketches/009-image-motion-trail-perspective/)
-  - [Sketch 010: Image Motion Trail (Perspective)](https://tympanus.net/Sketches/010-image-motion-trail-perspective/)
-  - [Sketch 011: Custom Cursor (filled circle)](https://tympanus.net/Sketches/011-custom-cursor-filled-circle/)
-  - [Sketch 012: Custom Cursor (two circles, one filled)](https://tympanus.net/Sketches/012-custom-cursor-two-circles/)
-  - [Sketch 013: Custom Cursor (two circles with filter effect)](https://tympanus.net/Sketches/013-custom-cursor-filter/)
-  - [Sketch 014: Custom Cursor (filter effect and delayed motion)](https://tympanus.net/Sketches/014-custom-cursor-filter-2/)
-  - [Sketch 015: Custom Cursor (multiple circles with filter effect) ](https://tympanus.net/Sketches/015-custom-cursor-filter-3/)
-  - [Sketch 016: Custom Cursor (filled circle with filter effect)](https://tympanus.net/Sketches/016-custom-cursor-filter-4/)
-  - [Sketch 017: Custom Cursor (stroke circle with filter effect)](https://tympanus.net/Sketches/017-custom-cursor-filter-5/)
-  - [Sketch 018: Custom Cursor (two circles with filter and delays)](https://tympanus.net/Sketches/018-custom-cursor-filter-6/)
-  - [Sketch 019: Image Motion Effect with SVG Filter](https://tympanus.net/Sketches/019-image-motion-svg-filter/)
-  - [Sketch 020: Image Motion Effect with SVG Filter](https://tympanus.net/Sketches/020-image-motion-svg-filter-2/)
-  - [Sketch 021: SVG Path Page Transition (Vertical)](https://tympanus.net/Sketches/021-svg-path-page-transition-vertical/)
-  - [Sketch 022: SVG Path Page Transition (Horizontal)](https://tympanus.net/Sketches/022-svg-path-page-transition-horizontal/)
-  - [Sketch 023: Background/Theme Picker](https://tympanus.net/Sketches/23-theme-picker/)
-</details>
+## Features:
 
-<details open>
-  <summary><b>2024</b></summary>
+- **Diverse Interactivity:** Explore a wide range of interactive elements, including hover effects, image motion trails, custom cursors, and more.
+- **Seamless Transitions:** Experience smooth transitions and animations, enhancing user engagement and navigation fluidity.
+- **Customization Options:** Discover sketches with customizable themes and backgrounds, allowing users to personalize their browsing experience.
+- **Infinite Loop Scrolling:** Dive into the world of infinite loop scrolling, where dynamic animations and effects create captivating browsing experiences.
 
-- [Sketch 024: Infinite Loop Scrolling](https://tympanus.net/Sketches/024-infinite-loop-scrolling/)
-- [Sketch 025: Infinite Loop Scrolling (Horizontal)](https://tympanus.net/Sketches/025-infinite-loop-scrolling-horizontal/)
-- [Sketch 026: Infinite Loop Scrolling (Animation)](https://tympanus.net/Sketches/026-infinite-loop-scrolling-animation/)
-- [Sketch 027: Infinite Loop Scrolling (ScaleY and Opacity)](https://tympanus.net/Sketches/027-infinite-loop-scrolling-animation-2/)
-- [Sketch 028: Infinite Loop Scrolling (ScaleX and ScaleY)](https://tympanus.net/Sketches/028-infinite-loop-scrolling-animation-3/)
-- [Sketch 029: Infinite Loop Scrolling (3D)](https://tympanus.net/Sketches/029-infinite-loop-scrolling-animation-4/)
-</details>
+## Sketches List:
 
-## Credits
+- Sketch 001: Repetition Hover Effect (Round)
+- Sketch 002: Repetition Hover Effect (Square)
+- Sketch 003: Repetition Hover Effect (Rotated)
+- Sketch 004: Repetition Hover Effect (Filter)
+- Sketch 005: Image Motion Trail (Opaque)
+- Sketch 006: Image Motion Trail (Semi-transparent)
+- Sketch 007: Image Motion Trail (Rotation)
+- Sketch 008: Image Motion Trail (Circle)
+- Sketch 009: Image Motion Trail (Perspective)
+- Sketch 010: Image Motion Trail (Perspective)
+- Sketch 011: Custom Cursor (filled circle)
+- Sketch 012: Custom Cursor (two circles, one filled)
+- Sketch 013: Custom Cursor (two circles with filter effect)
+- Sketch 014: Custom Cursor (filter effect and delayed motion)
+- Sketch 015: Custom Cursor (multiple circles with filter effect)
+- Sketch 016: Custom Cursor (filled circle with filter effect)
+- Sketch 017: Custom Cursor (stroke circle with filter effect)
+- Sketch 018: Custom Cursor (two circles with filter and delays)
+- Sketch 019: Image Motion Effect with SVG Filter
+- Sketch 020: Image Motion Effect with SVG Filter
+- Sketch 021: SVG Path Page Transition (Vertical)
+- Sketch 022: SVG Path Page Transition (Horizontal)
+- Sketch 023: Background/Theme Picker
+- Sketch 024: Infinite Loop Scrolling
+- Sketch 025: Infinite Loop Scrolling (Horizontal)
+- Sketch 026: Infinite Loop Scrolling (Animation)
+- Sketch 027: Infinite Loop Scrolling (ScaleY and Opacity)
+- Sketch 028: Infinite Loop Scrolling (ScaleX and ScaleY)
+- Sketch 029: Infinite Loop Scrolling (3D)
 
-- Images from [Unsplash](https://unsplash.com/)
-- Images from [GettyIMages](https://www.gettyimages.com/)
+## Usage:
 
+1. Clone the repository to your local machine.
+2. Navigate to the desired sketch folder.
+3. Open the `index.html` file in your web browser.
+4. Interact with the sketch to experience its features firsthand.
+
+## Contributing:
+
+- Contributions are welcome! If you have ideas for new sketches or improvements to existing ones, feel free to submit a pull request.
+- Before contributing, please review the [contribution guidelines](CONTRIBUTING.md).
+
+## License:
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments:
+
+- Special thanks to [Tympanus](https://tympanus.net/) for providing inspiration and resources for these web sketches.
+  EOF
