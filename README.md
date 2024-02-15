@@ -1,5 +1,3 @@
-cat << 'EOF' > README.md
-
 # Web Sketches Showcase
 
 Welcome to the Web Sketches Showcase repository! Here, you'll find a collection of innovative and interactive web sketches designed to elevate user experiences to new heights. From captivating hover effects to immersive image motion trails, and dynamic custom cursor designs, each sketch offers a glimpse into the possibilities of modern web design.
@@ -66,4 +64,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 - [MidJourney](https://www.midjourney.com/)
 
 Made with ~~love~~ keyboard by uzitrake
-EOF
