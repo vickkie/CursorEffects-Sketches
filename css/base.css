@@ -206,32 +206,24 @@ a:focus-visible {
   gap: 0.5rem;
   align-self: start;
   flex-wrap: wrap;
-  background: var(--color-bg);
+  backdrop-filter: blur(4px);
   border: 1px solid;
   padding: 1rem;
   border-radius: 10px;
 }
 
 .frame__demos > * {
-  width: 2rem;
   display: block;
   flex: none;
   text-decoration: none;
-  border-radius: 50%;
-  aspect-ratio: 1;
-  border: 1px solid var(--color-link-hover);
-  display: grid;
   place-items: center;
   padding-top: 0.2em;
-  background: var(--color-bg);
+  /* background: var(--color-bg); */
+  background-color: transparent;
 }
 
 .frame__demos > span {
   filter: invert(100%);
-}
-
-.frame__demos::before {
-  content: "Variations:";
 }
 
 .frame__heading {
